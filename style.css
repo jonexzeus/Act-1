@@ -39,11 +39,12 @@ body {
   
   .text-list li {
     display: inline-block; 
-    margin-right: 100px; 
-    margin-left: 100px;
+    margin-right: 70px; 
+    margin-left: 70px;
     font-family: 'Lobster', cursive;
     color: #ff6ec7;
     text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
     font-size: 30px;
+    text-align: center; 
   }
   
