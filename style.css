@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://img.freepik.com/free-vector/valentine-s-day-background-with-hearts-border_1048-9764.jpg?w=996&t=st=1709991373~exp=1709991973~hmac=055558a35cca1aa1d621df1ccf7b2d53c8da2bb3bf023559952b28cf281fb2b1');
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
+  
+  .image {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px; 
+    margin: 20px;
+    box-shadow: 0 10px 20px #ff6ec7;
+    
+  }
+  
+  .text-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center; 
+  }
+  
+  .text-list li {
+    display: inline-block; 
+    margin-right: 100px; 
+    margin-left: 100px;
+    font-family: 'Lobster', cursive;
+    color: #ff6ec7;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+    font-size: 30px;
+  }
+  
