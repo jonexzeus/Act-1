@@ -5,7 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     background-image: url('https://img.freepik.com/free-vector/valentine-s-day-background-with-hearts-border_1048-9764.jpg?w=996&t=st=1709991373~exp=1709991973~hmac=055558a35cca1aa1d621df1ccf7b2d53c8da2bb3bf023559952b28cf281fb2b1');
-    background-size: cover; /* Cover the entire viewport */
+    background-size: cover; 
     background-position: center;
   }
   
